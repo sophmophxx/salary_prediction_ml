@@ -1,0 +1,849 @@
+region,bg_code,berufsgruppe,median_entgelt
+Baden-Württemberg,121,Gartenbau,3.382
+Baden-Württemberg,221,"Kunststoff,Kautschukherstell.,verarbeit",3.260
+Baden-Württemberg,231,Papier- und Verpackungstechnik,3.961
+Baden-Württemberg,232,Technische Mediengestaltung,3.749
+Baden-Württemberg,261,Mechatronik und Automatisierungstechnik,4.874
+Baden-Württemberg,262,Energietechnik,4.579
+Baden-Württemberg,263,Elektrotechnik,4.702
+Baden-Württemberg,271,Technische Forschung und Entwicklung,7.412
+Baden-Württemberg,273,"Technische Produktionsplanung,-steuerung",6.025
+Baden-Württemberg,282,Textilverarbeitung,3.219
+Baden-Württemberg,292,Lebensmittel- u. Genussmittelherstellung,3.123
+Baden-Württemberg,311,"Bauplanung u. -überwachung, Architektur",5.658
+Baden-Württemberg,411,Mathematik und Statistik,6.101
+Baden-Württemberg,431,Informatik,6.370
+Baden-Württemberg,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",6.308
+Baden-Württemberg,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",6.076
+Baden-Württemberg,434,Softwareentwicklung und Programmierung,6.571
+Baden-Württemberg,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",3.218
+Baden-Württemberg,516,Kaufleute - Verkehr und Logistik,4.256
+Baden-Württemberg,521,Fahrzeugführung im Straßenverkehr,3.258
+Baden-Württemberg,525,Bau- und Transportgeräteführung,3.767
+Baden-Württemberg,541,Reinigung,2.600
+Baden-Württemberg,611,Einkauf und Vertrieb,5.753
+Baden-Württemberg,612,Handel,4.163
+Baden-Württemberg,621,Verkauf (ohne Produktspezialisierung),3.298
+Baden-Württemberg,623,Verkauf von Lebensmitteln,2.496
+Baden-Württemberg,632,Hotellerie,2.735
+Baden-Württemberg,633,Gastronomie,2.557
+Baden-Württemberg,634,"Veranstaltungsservice, -management",3.964
+Baden-Württemberg,711,Geschäftsführung und Vorstand,7.550
+Baden-Württemberg,713,Unternehmensorganisation und -strategie,6.190
+Baden-Württemberg,714,Büro und Sekretariat,4.022
+Baden-Württemberg,715,Personalwesen und -dienstleistung,5.235
+Baden-Württemberg,721,Versicherungs- u. Finanzdienstleistungen,5.590
+Baden-Württemberg,722,"Rechnungswesen, Controlling und Revision",5.539
+Baden-Württemberg,723,Steuerberatung,4.191
+Baden-Württemberg,732,Verwaltung,4.388
+Baden-Württemberg,733,Medien-Dokumentations-Informationsdienst,4.558
+Baden-Württemberg,811,Arzt- und Praxishilfe,3.043
+Baden-Württemberg,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.465
+Baden-Württemberg,817,Nicht ärztliche Therapie und Heilkunde,3.352
+Baden-Württemberg,821,Altenpflege,3.927
+Baden-Württemberg,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.671
+Baden-Württemberg,825,"Medizin-, Orthopädie- und Rehatechnik",3.596
+Baden-Württemberg,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.318
+Baden-Württemberg,832,Hauswirtschaft und Verbraucherberatung,2.986
+Baden-Württemberg,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",5.454
+Baden-Württemberg,844,Lehrtätigk. außerschul.Bildungseinricht.,4.810
+Baden-Württemberg,912,Geisteswissenschaften,None
+Baden-Württemberg,913,Gesellschaftswissenschaften,4.496
+Baden-Württemberg,921,Werbung und Marketing,5.556
+Baden-Württemberg,924,Redaktion und Journalismus,5.199
+Baden-Württemberg,932,"Innenarchitektur, Raumausstattung",3.426
+Bayern,121,Gartenbau,3.346
+Bayern,221,"Kunststoff,Kautschukherstell.,verarbeit",3.217
+Bayern,231,Papier- und Verpackungstechnik,3.676
+Bayern,232,Technische Mediengestaltung,3.895
+Bayern,261,Mechatronik und Automatisierungstechnik,4.446
+Bayern,262,Energietechnik,4.202
+Bayern,263,Elektrotechnik,4.569
+Bayern,271,Technische Forschung und Entwicklung,7.254
+Bayern,273,"Technische Produktionsplanung,-steuerung",5.810
+Bayern,282,Textilverarbeitung,3.002
+Bayern,292,Lebensmittel- u. Genussmittelherstellung,3.077
+Bayern,311,"Bauplanung u. -überwachung, Architektur",5.474
+Bayern,411,Mathematik und Statistik,6.842
+Bayern,431,Informatik,5.882
+Bayern,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",6.574
+Bayern,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.990
+Bayern,434,Softwareentwicklung und Programmierung,6.459
+Bayern,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",3.100
+Bayern,516,Kaufleute - Verkehr und Logistik,4.243
+Bayern,521,Fahrzeugführung im Straßenverkehr,3.087
+Bayern,525,Bau- und Transportgeräteführung,3.671
+Bayern,541,Reinigung,2.567
+Bayern,611,Einkauf und Vertrieb,5.705
+Bayern,612,Handel,3.946
+Bayern,621,Verkauf (ohne Produktspezialisierung),3.234
+Bayern,623,Verkauf von Lebensmitteln,2.576
+Bayern,632,Hotellerie,2.724
+Bayern,633,Gastronomie,2.568
+Bayern,634,"Veranstaltungsservice, -management",4.028
+Bayern,711,Geschäftsführung und Vorstand,7.550
+Bayern,713,Unternehmensorganisation und -strategie,6.151
+Bayern,714,Büro und Sekretariat,3.880
+Bayern,715,Personalwesen und -dienstleistung,5.263
+Bayern,721,Versicherungs- u. Finanzdienstleistungen,5.925
+Bayern,722,"Rechnungswesen, Controlling und Revision",5.525
+Bayern,723,Steuerberatung,4.153
+Bayern,732,Verwaltung,4.249
+Bayern,733,Medien-Dokumentations-Informationsdienst,4.592
+Bayern,811,Arzt- und Praxishilfe,3.054
+Bayern,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.260
+Bayern,817,Nicht ärztliche Therapie und Heilkunde,3.360
+Bayern,821,Altenpflege,3.666
+Bayern,822,"Ernährungs-,Gesundheitsberatung,Wellness",5.147
+Bayern,825,"Medizin-, Orthopädie- und Rehatechnik",3.469
+Bayern,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.190
+Bayern,832,Hauswirtschaft und Verbraucherberatung,2.934
+Bayern,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",5.144
+Bayern,844,Lehrtätigk. außerschul.Bildungseinricht.,4.899
+Bayern,912,Geisteswissenschaften,4.154
+Bayern,913,Gesellschaftswissenschaften,4.848
+Bayern,921,Werbung und Marketing,5.485
+Bayern,924,Redaktion und Journalismus,4.759
+Bayern,932,"Innenarchitektur, Raumausstattung",3.546
+Berlin,121,Gartenbau,3.150
+Berlin,221,"Kunststoff,Kautschukherstell.,verarbeit",2.773
+Berlin,231,Papier- und Verpackungstechnik,None
+Berlin,232,Technische Mediengestaltung,4.088
+Berlin,261,Mechatronik und Automatisierungstechnik,4.220
+Berlin,262,Energietechnik,4.162
+Berlin,263,Elektrotechnik,4.596
+Berlin,271,Technische Forschung und Entwicklung,6.216
+Berlin,273,"Technische Produktionsplanung,-steuerung",5.445
+Berlin,282,Textilverarbeitung,2.885
+Berlin,292,Lebensmittel- u. Genussmittelherstellung,3.110
+Berlin,311,"Bauplanung u. -überwachung, Architektur",4.935
+Berlin,411,Mathematik und Statistik,5.832
+Berlin,431,Informatik,5.995
+Berlin,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.703
+Berlin,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.787
+Berlin,434,Softwareentwicklung und Programmierung,6.594
+Berlin,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.843
+Berlin,516,Kaufleute - Verkehr und Logistik,3.741
+Berlin,521,Fahrzeugführung im Straßenverkehr,2.889
+Berlin,525,Bau- und Transportgeräteführung,3.305
+Berlin,541,Reinigung,2.454
+Berlin,611,Einkauf und Vertrieb,5.115
+Berlin,612,Handel,4.352
+Berlin,621,Verkauf (ohne Produktspezialisierung),3.165
+Berlin,623,Verkauf von Lebensmitteln,2.615
+Berlin,632,Hotellerie,2.834
+Berlin,633,Gastronomie,2.477
+Berlin,634,"Veranstaltungsservice, -management",3.875
+Berlin,711,Geschäftsführung und Vorstand,7.450
+Berlin,713,Unternehmensorganisation und -strategie,5.710
+Berlin,714,Büro und Sekretariat,4.154
+Berlin,715,Personalwesen und -dienstleistung,4.840
+Berlin,721,Versicherungs- u. Finanzdienstleistungen,5.916
+Berlin,722,"Rechnungswesen, Controlling und Revision",4.753
+Berlin,723,Steuerberatung,4.338
+Berlin,732,Verwaltung,4.479
+Berlin,733,Medien-Dokumentations-Informationsdienst,4.217
+Berlin,811,Arzt- und Praxishilfe,2.999
+Berlin,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.125
+Berlin,817,Nicht ärztliche Therapie und Heilkunde,3.577
+Berlin,821,Altenpflege,3.599
+Berlin,822,"Ernährungs-,Gesundheitsberatung,Wellness",5.055
+Berlin,825,"Medizin-, Orthopädie- und Rehatechnik",3.404
+Berlin,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",3.929
+Berlin,832,Hauswirtschaft und Verbraucherberatung,2.469
+Berlin,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",5.814
+Berlin,844,Lehrtätigk. außerschul.Bildungseinricht.,4.341
+Berlin,912,Geisteswissenschaften,6.294
+Berlin,913,Gesellschaftswissenschaften,5.228
+Berlin,921,Werbung und Marketing,4.440
+Berlin,924,Redaktion und Journalismus,4.702
+Berlin,932,"Innenarchitektur, Raumausstattung",3.442
+Brandenburg,121,Gartenbau,2.727
+Brandenburg,221,"Kunststoff,Kautschukherstell.,verarbeit",2.793
+Brandenburg,231,Papier- und Verpackungstechnik,3.567
+Brandenburg,232,Technische Mediengestaltung,2.618
+Brandenburg,261,Mechatronik und Automatisierungstechnik,3.737
+Brandenburg,262,Energietechnik,3.742
+Brandenburg,263,Elektrotechnik,3.487
+Brandenburg,271,Technische Forschung und Entwicklung,5.511
+Brandenburg,273,"Technische Produktionsplanung,-steuerung",4.690
+Brandenburg,282,Textilverarbeitung,None
+Brandenburg,292,Lebensmittel- u. Genussmittelherstellung,2.619
+Brandenburg,311,"Bauplanung u. -überwachung, Architektur",4.745
+Brandenburg,411,Mathematik und Statistik,None
+Brandenburg,431,Informatik,5.003
+Brandenburg,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.498
+Brandenburg,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.032
+Brandenburg,434,Softwareentwicklung und Programmierung,5.479
+Brandenburg,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.666
+Brandenburg,516,Kaufleute - Verkehr und Logistik,3.500
+Brandenburg,521,Fahrzeugführung im Straßenverkehr,2.773
+Brandenburg,525,Bau- und Transportgeräteführung,3.089
+Brandenburg,541,Reinigung,2.430
+Brandenburg,611,Einkauf und Vertrieb,4.337
+Brandenburg,612,Handel,3.596
+Brandenburg,621,Verkauf (ohne Produktspezialisierung),2.901
+Brandenburg,623,Verkauf von Lebensmitteln,2.419
+Brandenburg,632,Hotellerie,2.524
+Brandenburg,633,Gastronomie,2.402
+Brandenburg,634,"Veranstaltungsservice, -management",None
+Brandenburg,711,Geschäftsführung und Vorstand,6.486
+Brandenburg,713,Unternehmensorganisation und -strategie,4.562
+Brandenburg,714,Büro und Sekretariat,3.355
+Brandenburg,715,Personalwesen und -dienstleistung,4.785
+Brandenburg,721,Versicherungs- u. Finanzdienstleistungen,4.745
+Brandenburg,722,"Rechnungswesen, Controlling und Revision",4.108
+Brandenburg,723,Steuerberatung,3.329
+Brandenburg,732,Verwaltung,4.323
+Brandenburg,733,Medien-Dokumentations-Informationsdienst,3.939
+Brandenburg,811,Arzt- und Praxishilfe,2.727
+Brandenburg,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.066
+Brandenburg,817,Nicht ärztliche Therapie und Heilkunde,3.201
+Brandenburg,821,Altenpflege,3.616
+Brandenburg,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Brandenburg,825,"Medizin-, Orthopädie- und Rehatechnik",2.934
+Brandenburg,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.047
+Brandenburg,832,Hauswirtschaft und Verbraucherberatung,2.370
+Brandenburg,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.423
+Brandenburg,844,Lehrtätigk. außerschul.Bildungseinricht.,4.457
+Brandenburg,912,Geisteswissenschaften,None
+Brandenburg,913,Gesellschaftswissenschaften,3.801
+Brandenburg,921,Werbung und Marketing,3.427
+Brandenburg,924,Redaktion und Journalismus,4.388
+Brandenburg,932,"Innenarchitektur, Raumausstattung",None
+Bremen,121,Gartenbau,3.132
+Bremen,221,"Kunststoff,Kautschukherstell.,verarbeit",None
+Bremen,231,Papier- und Verpackungstechnik,None
+Bremen,232,Technische Mediengestaltung,3.452
+Bremen,261,Mechatronik und Automatisierungstechnik,4.684
+Bremen,262,Energietechnik,4.388
+Bremen,263,Elektrotechnik,5.133
+Bremen,271,Technische Forschung und Entwicklung,6.436
+Bremen,273,"Technische Produktionsplanung,-steuerung",6.081
+Bremen,282,Textilverarbeitung,4.581
+Bremen,292,Lebensmittel- u. Genussmittelherstellung,3.447
+Bremen,311,"Bauplanung u. -überwachung, Architektur",5.578
+Bremen,411,Mathematik und Statistik,None
+Bremen,431,Informatik,4.971
+Bremen,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.692
+Bremen,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.498
+Bremen,434,Softwareentwicklung und Programmierung,5.561
+Bremen,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.933
+Bremen,516,Kaufleute - Verkehr und Logistik,4.086
+Bremen,521,Fahrzeugführung im Straßenverkehr,2.940
+Bremen,525,Bau- und Transportgeräteführung,4.816
+Bremen,541,Reinigung,2.697
+Bremen,611,Einkauf und Vertrieb,5.244
+Bremen,612,Handel,4.116
+Bremen,621,Verkauf (ohne Produktspezialisierung),3.104
+Bremen,623,Verkauf von Lebensmitteln,2.714
+Bremen,632,Hotellerie,2.854
+Bremen,633,Gastronomie,2.566
+Bremen,634,"Veranstaltungsservice, -management",None
+Bremen,711,Geschäftsführung und Vorstand,7.550
+Bremen,713,Unternehmensorganisation und -strategie,5.343
+Bremen,714,Büro und Sekretariat,3.756
+Bremen,715,Personalwesen und -dienstleistung,4.994
+Bremen,721,Versicherungs- u. Finanzdienstleistungen,5.385
+Bremen,722,"Rechnungswesen, Controlling und Revision",4.954
+Bremen,723,Steuerberatung,3.995
+Bremen,732,Verwaltung,4.335
+Bremen,733,Medien-Dokumentations-Informationsdienst,None
+Bremen,811,Arzt- und Praxishilfe,3.078
+Bremen,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.345
+Bremen,817,Nicht ärztliche Therapie und Heilkunde,3.605
+Bremen,821,Altenpflege,3.970
+Bremen,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Bremen,825,"Medizin-, Orthopädie- und Rehatechnik",3.293
+Bremen,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.176
+Bremen,832,Hauswirtschaft und Verbraucherberatung,None
+Bremen,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.551
+Bremen,844,Lehrtätigk. außerschul.Bildungseinricht.,None
+Bremen,912,Geisteswissenschaften,None
+Bremen,913,Gesellschaftswissenschaften,None
+Bremen,921,Werbung und Marketing,4.338
+Bremen,924,Redaktion und Journalismus,5.051
+Bremen,932,"Innenarchitektur, Raumausstattung",None
+Hamburg,121,Gartenbau,3.186
+Hamburg,221,"Kunststoff,Kautschukherstell.,verarbeit",3.720
+Hamburg,231,Papier- und Verpackungstechnik,None
+Hamburg,232,Technische Mediengestaltung,3.983
+Hamburg,261,Mechatronik und Automatisierungstechnik,4.907
+Hamburg,262,Energietechnik,4.850
+Hamburg,263,Elektrotechnik,5.104
+Hamburg,271,Technische Forschung und Entwicklung,6.316
+Hamburg,273,"Technische Produktionsplanung,-steuerung",6.137
+Hamburg,282,Textilverarbeitung,3.336
+Hamburg,292,Lebensmittel- u. Genussmittelherstellung,3.277
+Hamburg,311,"Bauplanung u. -überwachung, Architektur",5.395
+Hamburg,411,Mathematik und Statistik,None
+Hamburg,431,Informatik,5.952
+Hamburg,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",6.047
+Hamburg,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.951
+Hamburg,434,Softwareentwicklung und Programmierung,6.071
+Hamburg,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",3.002
+Hamburg,516,Kaufleute - Verkehr und Logistik,4.557
+Hamburg,521,Fahrzeugführung im Straßenverkehr,3.062
+Hamburg,525,Bau- und Transportgeräteführung,3.950
+Hamburg,541,Reinigung,2.590
+Hamburg,611,Einkauf und Vertrieb,5.651
+Hamburg,612,Handel,5.058
+Hamburg,621,Verkauf (ohne Produktspezialisierung),3.351
+Hamburg,623,Verkauf von Lebensmitteln,2.636
+Hamburg,632,Hotellerie,2.705
+Hamburg,633,Gastronomie,2.597
+Hamburg,634,"Veranstaltungsservice, -management",3.628
+Hamburg,711,Geschäftsführung und Vorstand,7.550
+Hamburg,713,Unternehmensorganisation und -strategie,6.103
+Hamburg,714,Büro und Sekretariat,4.341
+Hamburg,715,Personalwesen und -dienstleistung,5.077
+Hamburg,721,Versicherungs- u. Finanzdienstleistungen,6.070
+Hamburg,722,"Rechnungswesen, Controlling und Revision",5.406
+Hamburg,723,Steuerberatung,4.735
+Hamburg,732,Verwaltung,4.395
+Hamburg,733,Medien-Dokumentations-Informationsdienst,4.561
+Hamburg,811,Arzt- und Praxishilfe,3.107
+Hamburg,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.263
+Hamburg,817,Nicht ärztliche Therapie und Heilkunde,3.520
+Hamburg,821,Altenpflege,3.828
+Hamburg,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.410
+Hamburg,825,"Medizin-, Orthopädie- und Rehatechnik",3.684
+Hamburg,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.081
+Hamburg,832,Hauswirtschaft und Verbraucherberatung,2.975
+Hamburg,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",5.118
+Hamburg,844,Lehrtätigk. außerschul.Bildungseinricht.,4.435
+Hamburg,912,Geisteswissenschaften,None
+Hamburg,913,Gesellschaftswissenschaften,4.451
+Hamburg,921,Werbung und Marketing,5.018
+Hamburg,924,Redaktion und Journalismus,4.900
+Hamburg,932,"Innenarchitektur, Raumausstattung",3.663
+Hessen,121,Gartenbau,3.261
+Hessen,221,"Kunststoff,Kautschukherstell.,verarbeit",3.540
+Hessen,231,Papier- und Verpackungstechnik,3.787
+Hessen,232,Technische Mediengestaltung,3.782
+Hessen,261,Mechatronik und Automatisierungstechnik,4.429
+Hessen,262,Energietechnik,4.330
+Hessen,263,Elektrotechnik,4.777
+Hessen,271,Technische Forschung und Entwicklung,7.018
+Hessen,273,"Technische Produktionsplanung,-steuerung",5.555
+Hessen,282,Textilverarbeitung,2.964
+Hessen,292,Lebensmittel- u. Genussmittelherstellung,3.176
+Hessen,311,"Bauplanung u. -überwachung, Architektur",5.469
+Hessen,411,Mathematik und Statistik,6.607
+Hessen,431,Informatik,6.084
+Hessen,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",6.365
+Hessen,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",6.471
+Hessen,434,Softwareentwicklung und Programmierung,6.141
+Hessen,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.998
+Hessen,516,Kaufleute - Verkehr und Logistik,3.862
+Hessen,521,Fahrzeugführung im Straßenverkehr,3.059
+Hessen,525,Bau- und Transportgeräteführung,3.570
+Hessen,541,Reinigung,2.544
+Hessen,611,Einkauf und Vertrieb,5.894
+Hessen,612,Handel,4.050
+Hessen,621,Verkauf (ohne Produktspezialisierung),3.328
+Hessen,623,Verkauf von Lebensmitteln,2.436
+Hessen,632,Hotellerie,3.003
+Hessen,633,Gastronomie,2.600
+Hessen,634,"Veranstaltungsservice, -management",3.746
+Hessen,711,Geschäftsführung und Vorstand,7.550
+Hessen,713,Unternehmensorganisation und -strategie,6.105
+Hessen,714,Büro und Sekretariat,4.152
+Hessen,715,Personalwesen und -dienstleistung,5.321
+Hessen,721,Versicherungs- u. Finanzdienstleistungen,6.692
+Hessen,722,"Rechnungswesen, Controlling und Revision",5.573
+Hessen,723,Steuerberatung,4.351
+Hessen,732,Verwaltung,4.508
+Hessen,733,Medien-Dokumentations-Informationsdienst,4.645
+Hessen,811,Arzt- und Praxishilfe,2.988
+Hessen,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.338
+Hessen,817,Nicht ärztliche Therapie und Heilkunde,3.353
+Hessen,821,Altenpflege,3.633
+Hessen,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.771
+Hessen,825,"Medizin-, Orthopädie- und Rehatechnik",3.374
+Hessen,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.343
+Hessen,832,Hauswirtschaft und Verbraucherberatung,2.880
+Hessen,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",5.112
+Hessen,844,Lehrtätigk. außerschul.Bildungseinricht.,4.707
+Hessen,912,Geisteswissenschaften,None
+Hessen,913,Gesellschaftswissenschaften,4.444
+Hessen,921,Werbung und Marketing,5.676
+Hessen,924,Redaktion und Journalismus,5.153
+Hessen,932,"Innenarchitektur, Raumausstattung",3.459
+Mecklenburg-Vorpommern,121,Gartenbau,2.695
+Mecklenburg-Vorpommern,221,"Kunststoff,Kautschukherstell.,verarbeit",2.825
+Mecklenburg-Vorpommern,231,Papier- und Verpackungstechnik,None
+Mecklenburg-Vorpommern,232,Technische Mediengestaltung,2.718
+Mecklenburg-Vorpommern,261,Mechatronik und Automatisierungstechnik,3.351
+Mecklenburg-Vorpommern,262,Energietechnik,3.692
+Mecklenburg-Vorpommern,263,Elektrotechnik,3.515
+Mecklenburg-Vorpommern,271,Technische Forschung und Entwicklung,5.202
+Mecklenburg-Vorpommern,273,"Technische Produktionsplanung,-steuerung",4.393
+Mecklenburg-Vorpommern,282,Textilverarbeitung,None
+Mecklenburg-Vorpommern,292,Lebensmittel- u. Genussmittelherstellung,2.925
+Mecklenburg-Vorpommern,311,"Bauplanung u. -überwachung, Architektur",4.832
+Mecklenburg-Vorpommern,411,Mathematik und Statistik,None
+Mecklenburg-Vorpommern,431,Informatik,4.285
+Mecklenburg-Vorpommern,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",4.632
+Mecklenburg-Vorpommern,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",4.902
+Mecklenburg-Vorpommern,434,Softwareentwicklung und Programmierung,4.586
+Mecklenburg-Vorpommern,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.808
+Mecklenburg-Vorpommern,516,Kaufleute - Verkehr und Logistik,3.380
+Mecklenburg-Vorpommern,521,Fahrzeugführung im Straßenverkehr,2.817
+Mecklenburg-Vorpommern,525,Bau- und Transportgeräteführung,3.113
+Mecklenburg-Vorpommern,541,Reinigung,2.391
+Mecklenburg-Vorpommern,611,Einkauf und Vertrieb,4.168
+Mecklenburg-Vorpommern,612,Handel,3.277
+Mecklenburg-Vorpommern,621,Verkauf (ohne Produktspezialisierung),2.612
+Mecklenburg-Vorpommern,623,Verkauf von Lebensmitteln,2.292
+Mecklenburg-Vorpommern,632,Hotellerie,2.437
+Mecklenburg-Vorpommern,633,Gastronomie,2.390
+Mecklenburg-Vorpommern,634,"Veranstaltungsservice, -management",None
+Mecklenburg-Vorpommern,711,Geschäftsführung und Vorstand,6.531
+Mecklenburg-Vorpommern,713,Unternehmensorganisation und -strategie,4.487
+Mecklenburg-Vorpommern,714,Büro und Sekretariat,3.241
+Mecklenburg-Vorpommern,715,Personalwesen und -dienstleistung,4.611
+Mecklenburg-Vorpommern,721,Versicherungs- u. Finanzdienstleistungen,4.665
+Mecklenburg-Vorpommern,722,"Rechnungswesen, Controlling und Revision",3.806
+Mecklenburg-Vorpommern,723,Steuerberatung,3.224
+Mecklenburg-Vorpommern,732,Verwaltung,4.230
+Mecklenburg-Vorpommern,733,Medien-Dokumentations-Informationsdienst,3.763
+Mecklenburg-Vorpommern,811,Arzt- und Praxishilfe,2.691
+Mecklenburg-Vorpommern,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.008
+Mecklenburg-Vorpommern,817,Nicht ärztliche Therapie und Heilkunde,3.082
+Mecklenburg-Vorpommern,821,Altenpflege,3.698
+Mecklenburg-Vorpommern,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Mecklenburg-Vorpommern,825,"Medizin-, Orthopädie- und Rehatechnik",2.869
+Mecklenburg-Vorpommern,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",3.924
+Mecklenburg-Vorpommern,832,Hauswirtschaft und Verbraucherberatung,2.477
+Mecklenburg-Vorpommern,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.511
+Mecklenburg-Vorpommern,844,Lehrtätigk. außerschul.Bildungseinricht.,3.843
+Mecklenburg-Vorpommern,912,Geisteswissenschaften,None
+Mecklenburg-Vorpommern,913,Gesellschaftswissenschaften,None
+Mecklenburg-Vorpommern,921,Werbung und Marketing,2.787
+Mecklenburg-Vorpommern,924,Redaktion und Journalismus,None
+Mecklenburg-Vorpommern,932,"Innenarchitektur, Raumausstattung",None
+Niedersachsen,121,Gartenbau,3.091
+Niedersachsen,221,"Kunststoff,Kautschukherstell.,verarbeit",3.344
+Niedersachsen,231,Papier- und Verpackungstechnik,3.876
+Niedersachsen,232,Technische Mediengestaltung,3.251
+Niedersachsen,261,Mechatronik und Automatisierungstechnik,4.195
+Niedersachsen,262,Energietechnik,4.495
+Niedersachsen,263,Elektrotechnik,4.325
+Niedersachsen,271,Technische Forschung und Entwicklung,6.389
+Niedersachsen,273,"Technische Produktionsplanung,-steuerung",5.184
+Niedersachsen,282,Textilverarbeitung,3.364
+Niedersachsen,292,Lebensmittel- u. Genussmittelherstellung,2.880
+Niedersachsen,311,"Bauplanung u. -überwachung, Architektur",5.426
+Niedersachsen,411,Mathematik und Statistik,None
+Niedersachsen,431,Informatik,5.125
+Niedersachsen,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.945
+Niedersachsen,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.409
+Niedersachsen,434,Softwareentwicklung und Programmierung,5.283
+Niedersachsen,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.931
+Niedersachsen,516,Kaufleute - Verkehr und Logistik,3.894
+Niedersachsen,521,Fahrzeugführung im Straßenverkehr,3.021
+Niedersachsen,525,Bau- und Transportgeräteführung,3.468
+Niedersachsen,541,Reinigung,2.532
+Niedersachsen,611,Einkauf und Vertrieb,5.120
+Niedersachsen,612,Handel,3.625
+Niedersachsen,621,Verkauf (ohne Produktspezialisierung),3.013
+Niedersachsen,623,Verkauf von Lebensmitteln,2.477
+Niedersachsen,632,Hotellerie,2.818
+Niedersachsen,633,Gastronomie,2.497
+Niedersachsen,634,"Veranstaltungsservice, -management",3.505
+Niedersachsen,711,Geschäftsführung und Vorstand,7.476
+Niedersachsen,713,Unternehmensorganisation und -strategie,5.334
+Niedersachsen,714,Büro und Sekretariat,3.627
+Niedersachsen,715,Personalwesen und -dienstleistung,4.992
+Niedersachsen,721,Versicherungs- u. Finanzdienstleistungen,5.473
+Niedersachsen,722,"Rechnungswesen, Controlling und Revision",4.743
+Niedersachsen,723,Steuerberatung,3.547
+Niedersachsen,732,Verwaltung,4.331
+Niedersachsen,733,Medien-Dokumentations-Informationsdienst,4.093
+Niedersachsen,811,Arzt- und Praxishilfe,2.921
+Niedersachsen,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.242
+Niedersachsen,817,Nicht ärztliche Therapie und Heilkunde,3.255
+Niedersachsen,821,Altenpflege,3.730
+Niedersachsen,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.660
+Niedersachsen,825,"Medizin-, Orthopädie- und Rehatechnik",3.102
+Niedersachsen,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.173
+Niedersachsen,832,Hauswirtschaft und Verbraucherberatung,2.690
+Niedersachsen,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.798
+Niedersachsen,844,Lehrtätigk. außerschul.Bildungseinricht.,4.206
+Niedersachsen,912,Geisteswissenschaften,None
+Niedersachsen,913,Gesellschaftswissenschaften,4.514
+Niedersachsen,921,Werbung und Marketing,4.249
+Niedersachsen,924,Redaktion und Journalismus,4.568
+Niedersachsen,932,"Innenarchitektur, Raumausstattung",3.064
+Nordrhein-Westfalen,121,Gartenbau,3.284
+Nordrhein-Westfalen,221,"Kunststoff,Kautschukherstell.,verarbeit",3.162
+Nordrhein-Westfalen,231,Papier- und Verpackungstechnik,3.802
+Nordrhein-Westfalen,232,Technische Mediengestaltung,3.607
+Nordrhein-Westfalen,261,Mechatronik und Automatisierungstechnik,4.451
+Nordrhein-Westfalen,262,Energietechnik,4.294
+Nordrhein-Westfalen,263,Elektrotechnik,4.499
+Nordrhein-Westfalen,271,Technische Forschung und Entwicklung,6.626
+Nordrhein-Westfalen,273,"Technische Produktionsplanung,-steuerung",5.383
+Nordrhein-Westfalen,282,Textilverarbeitung,2.855
+Nordrhein-Westfalen,292,Lebensmittel- u. Genussmittelherstellung,2.983
+Nordrhein-Westfalen,311,"Bauplanung u. -überwachung, Architektur",5.543
+Nordrhein-Westfalen,411,Mathematik und Statistik,6.249
+Nordrhein-Westfalen,431,Informatik,5.471
+Nordrhein-Westfalen,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.822
+Nordrhein-Westfalen,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.878
+Nordrhein-Westfalen,434,Softwareentwicklung und Programmierung,5.574
+Nordrhein-Westfalen,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.956
+Nordrhein-Westfalen,516,Kaufleute - Verkehr und Logistik,4.204
+Nordrhein-Westfalen,521,Fahrzeugführung im Straßenverkehr,3.111
+Nordrhein-Westfalen,525,Bau- und Transportgeräteführung,3.587
+Nordrhein-Westfalen,541,Reinigung,2.607
+Nordrhein-Westfalen,611,Einkauf und Vertrieb,5.406
+Nordrhein-Westfalen,612,Handel,3.902
+Nordrhein-Westfalen,621,Verkauf (ohne Produktspezialisierung),3.142
+Nordrhein-Westfalen,623,Verkauf von Lebensmitteln,2.531
+Nordrhein-Westfalen,632,Hotellerie,2.828
+Nordrhein-Westfalen,633,Gastronomie,2.537
+Nordrhein-Westfalen,634,"Veranstaltungsservice, -management",3.676
+Nordrhein-Westfalen,711,Geschäftsführung und Vorstand,7.550
+Nordrhein-Westfalen,713,Unternehmensorganisation und -strategie,5.425
+Nordrhein-Westfalen,714,Büro und Sekretariat,3.922
+Nordrhein-Westfalen,715,Personalwesen und -dienstleistung,5.080
+Nordrhein-Westfalen,721,Versicherungs- u. Finanzdienstleistungen,5.691
+Nordrhein-Westfalen,722,"Rechnungswesen, Controlling und Revision",5.179
+Nordrhein-Westfalen,723,Steuerberatung,3.977
+Nordrhein-Westfalen,732,Verwaltung,4.536
+Nordrhein-Westfalen,733,Medien-Dokumentations-Informationsdienst,4.327
+Nordrhein-Westfalen,811,Arzt- und Praxishilfe,2.974
+Nordrhein-Westfalen,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.332
+Nordrhein-Westfalen,817,Nicht ärztliche Therapie und Heilkunde,3.350
+Nordrhein-Westfalen,821,Altenpflege,3.957
+Nordrhein-Westfalen,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.525
+Nordrhein-Westfalen,825,"Medizin-, Orthopädie- und Rehatechnik",3.314
+Nordrhein-Westfalen,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.232
+Nordrhein-Westfalen,832,Hauswirtschaft und Verbraucherberatung,2.827
+Nordrhein-Westfalen,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",5.001
+Nordrhein-Westfalen,844,Lehrtätigk. außerschul.Bildungseinricht.,4.667
+Nordrhein-Westfalen,912,Geisteswissenschaften,5.197
+Nordrhein-Westfalen,913,Gesellschaftswissenschaften,4.201
+Nordrhein-Westfalen,921,Werbung und Marketing,4.530
+Nordrhein-Westfalen,924,Redaktion und Journalismus,4.705
+Nordrhein-Westfalen,932,"Innenarchitektur, Raumausstattung",3.374
+Rheinland-Pfalz,121,Gartenbau,3.235
+Rheinland-Pfalz,221,"Kunststoff,Kautschukherstell.,verarbeit",3.491
+Rheinland-Pfalz,231,Papier- und Verpackungstechnik,3.703
+Rheinland-Pfalz,232,Technische Mediengestaltung,3.499
+Rheinland-Pfalz,261,Mechatronik und Automatisierungstechnik,4.307
+Rheinland-Pfalz,262,Energietechnik,4.105
+Rheinland-Pfalz,263,Elektrotechnik,4.330
+Rheinland-Pfalz,271,Technische Forschung und Entwicklung,6.575
+Rheinland-Pfalz,273,"Technische Produktionsplanung,-steuerung",5.750
+Rheinland-Pfalz,282,Textilverarbeitung,2.795
+Rheinland-Pfalz,292,Lebensmittel- u. Genussmittelherstellung,3.124
+Rheinland-Pfalz,311,"Bauplanung u. -überwachung, Architektur",5.555
+Rheinland-Pfalz,411,Mathematik und Statistik,None
+Rheinland-Pfalz,431,Informatik,5.436
+Rheinland-Pfalz,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.093
+Rheinland-Pfalz,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.562
+Rheinland-Pfalz,434,Softwareentwicklung und Programmierung,5.239
+Rheinland-Pfalz,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.985
+Rheinland-Pfalz,516,Kaufleute - Verkehr und Logistik,4.290
+Rheinland-Pfalz,521,Fahrzeugführung im Straßenverkehr,3.175
+Rheinland-Pfalz,525,Bau- und Transportgeräteführung,3.577
+Rheinland-Pfalz,541,Reinigung,2.474
+Rheinland-Pfalz,611,Einkauf und Vertrieb,5.233
+Rheinland-Pfalz,612,Handel,3.693
+Rheinland-Pfalz,621,Verkauf (ohne Produktspezialisierung),3.119
+Rheinland-Pfalz,623,Verkauf von Lebensmitteln,2.461
+Rheinland-Pfalz,632,Hotellerie,2.756
+Rheinland-Pfalz,633,Gastronomie,2.488
+Rheinland-Pfalz,634,"Veranstaltungsservice, -management",3.546
+Rheinland-Pfalz,711,Geschäftsführung und Vorstand,7.550
+Rheinland-Pfalz,713,Unternehmensorganisation und -strategie,5.031
+Rheinland-Pfalz,714,Büro und Sekretariat,3.642
+Rheinland-Pfalz,715,Personalwesen und -dienstleistung,5.247
+Rheinland-Pfalz,721,Versicherungs- u. Finanzdienstleistungen,5.239
+Rheinland-Pfalz,722,"Rechnungswesen, Controlling und Revision",4.977
+Rheinland-Pfalz,723,Steuerberatung,3.584
+Rheinland-Pfalz,732,Verwaltung,4.339
+Rheinland-Pfalz,733,Medien-Dokumentations-Informationsdienst,4.536
+Rheinland-Pfalz,811,Arzt- und Praxishilfe,2.946
+Rheinland-Pfalz,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.338
+Rheinland-Pfalz,817,Nicht ärztliche Therapie und Heilkunde,3.296
+Rheinland-Pfalz,821,Altenpflege,3.761
+Rheinland-Pfalz,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.722
+Rheinland-Pfalz,825,"Medizin-, Orthopädie- und Rehatechnik",3.447
+Rheinland-Pfalz,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.286
+Rheinland-Pfalz,832,Hauswirtschaft und Verbraucherberatung,2.786
+Rheinland-Pfalz,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.996
+Rheinland-Pfalz,844,Lehrtätigk. außerschul.Bildungseinricht.,4.343
+Rheinland-Pfalz,912,Geisteswissenschaften,None
+Rheinland-Pfalz,913,Gesellschaftswissenschaften,3.821
+Rheinland-Pfalz,921,Werbung und Marketing,4.726
+Rheinland-Pfalz,924,Redaktion und Journalismus,5.635
+Rheinland-Pfalz,932,"Innenarchitektur, Raumausstattung",3.213
+Saarland,121,Gartenbau,3.283
+Saarland,221,"Kunststoff,Kautschukherstell.,verarbeit",3.458
+Saarland,231,Papier- und Verpackungstechnik,None
+Saarland,232,Technische Mediengestaltung,3.536
+Saarland,261,Mechatronik und Automatisierungstechnik,4.398
+Saarland,262,Energietechnik,4.318
+Saarland,263,Elektrotechnik,4.267
+Saarland,271,Technische Forschung und Entwicklung,6.513
+Saarland,273,"Technische Produktionsplanung,-steuerung",5.371
+Saarland,282,Textilverarbeitung,None
+Saarland,292,Lebensmittel- u. Genussmittelherstellung,2.934
+Saarland,311,"Bauplanung u. -überwachung, Architektur",5.505
+Saarland,411,Mathematik und Statistik,None
+Saarland,431,Informatik,5.149
+Saarland,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.457
+Saarland,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.351
+Saarland,434,Softwareentwicklung und Programmierung,5.121
+Saarland,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.994
+Saarland,516,Kaufleute - Verkehr und Logistik,3.710
+Saarland,521,Fahrzeugführung im Straßenverkehr,3.075
+Saarland,525,Bau- und Transportgeräteführung,3.879
+Saarland,541,Reinigung,2.612
+Saarland,611,Einkauf und Vertrieb,5.151
+Saarland,612,Handel,3.494
+Saarland,621,Verkauf (ohne Produktspezialisierung),3.073
+Saarland,623,Verkauf von Lebensmitteln,2.461
+Saarland,632,Hotellerie,2.571
+Saarland,633,Gastronomie,2.474
+Saarland,634,"Veranstaltungsservice, -management",None
+Saarland,711,Geschäftsführung und Vorstand,7.473
+Saarland,713,Unternehmensorganisation und -strategie,5.081
+Saarland,714,Büro und Sekretariat,3.618
+Saarland,715,Personalwesen und -dienstleistung,5.088
+Saarland,721,Versicherungs- u. Finanzdienstleistungen,5.105
+Saarland,722,"Rechnungswesen, Controlling und Revision",4.721
+Saarland,723,Steuerberatung,3.504
+Saarland,732,Verwaltung,4.435
+Saarland,733,Medien-Dokumentations-Informationsdienst,None
+Saarland,811,Arzt- und Praxishilfe,2.993
+Saarland,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.450
+Saarland,817,Nicht ärztliche Therapie und Heilkunde,3.336
+Saarland,821,Altenpflege,3.701
+Saarland,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Saarland,825,"Medizin-, Orthopädie- und Rehatechnik",3.187
+Saarland,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.161
+Saarland,832,Hauswirtschaft und Verbraucherberatung,2.546
+Saarland,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.912
+Saarland,844,Lehrtätigk. außerschul.Bildungseinricht.,None
+Saarland,912,Geisteswissenschaften,None
+Saarland,913,Gesellschaftswissenschaften,None
+Saarland,921,Werbung und Marketing,3.936
+Saarland,924,Redaktion und Journalismus,None
+Saarland,932,"Innenarchitektur, Raumausstattung",None
+Sachsen-Anhalt,121,Gartenbau,2.735
+Sachsen-Anhalt,221,"Kunststoff,Kautschukherstell.,verarbeit",2.668
+Sachsen-Anhalt,231,Papier- und Verpackungstechnik,3.728
+Sachsen-Anhalt,232,Technische Mediengestaltung,2.697
+Sachsen-Anhalt,261,Mechatronik und Automatisierungstechnik,3.708
+Sachsen-Anhalt,262,Energietechnik,3.559
+Sachsen-Anhalt,263,Elektrotechnik,3.440
+Sachsen-Anhalt,271,Technische Forschung und Entwicklung,4.978
+Sachsen-Anhalt,273,"Technische Produktionsplanung,-steuerung",4.332
+Sachsen-Anhalt,282,Textilverarbeitung,None
+Sachsen-Anhalt,292,Lebensmittel- u. Genussmittelherstellung,2.708
+Sachsen-Anhalt,311,"Bauplanung u. -überwachung, Architektur",4.882
+Sachsen-Anhalt,411,Mathematik und Statistik,None
+Sachsen-Anhalt,431,Informatik,4.264
+Sachsen-Anhalt,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",4.717
+Sachsen-Anhalt,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",4.998
+Sachsen-Anhalt,434,Softwareentwicklung und Programmierung,4.444
+Sachsen-Anhalt,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.710
+Sachsen-Anhalt,516,Kaufleute - Verkehr und Logistik,3.247
+Sachsen-Anhalt,521,Fahrzeugführung im Straßenverkehr,2.884
+Sachsen-Anhalt,525,Bau- und Transportgeräteführung,3.145
+Sachsen-Anhalt,541,Reinigung,2.419
+Sachsen-Anhalt,611,Einkauf und Vertrieb,4.170
+Sachsen-Anhalt,612,Handel,3.224
+Sachsen-Anhalt,621,Verkauf (ohne Produktspezialisierung),2.837
+Sachsen-Anhalt,623,Verkauf von Lebensmitteln,2.384
+Sachsen-Anhalt,632,Hotellerie,2.474
+Sachsen-Anhalt,633,Gastronomie,2.350
+Sachsen-Anhalt,634,"Veranstaltungsservice, -management",None
+Sachsen-Anhalt,711,Geschäftsführung und Vorstand,6.608
+Sachsen-Anhalt,713,Unternehmensorganisation und -strategie,4.396
+Sachsen-Anhalt,714,Büro und Sekretariat,3.207
+Sachsen-Anhalt,715,Personalwesen und -dienstleistung,4.374
+Sachsen-Anhalt,721,Versicherungs- u. Finanzdienstleistungen,4.890
+Sachsen-Anhalt,722,"Rechnungswesen, Controlling und Revision",3.922
+Sachsen-Anhalt,723,Steuerberatung,3.165
+Sachsen-Anhalt,732,Verwaltung,4.273
+Sachsen-Anhalt,733,Medien-Dokumentations-Informationsdienst,3.826
+Sachsen-Anhalt,811,Arzt- und Praxishilfe,2.637
+Sachsen-Anhalt,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.089
+Sachsen-Anhalt,817,Nicht ärztliche Therapie und Heilkunde,3.086
+Sachsen-Anhalt,821,Altenpflege,3.694
+Sachsen-Anhalt,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Sachsen-Anhalt,825,"Medizin-, Orthopädie- und Rehatechnik",2.854
+Sachsen-Anhalt,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",3.952
+Sachsen-Anhalt,832,Hauswirtschaft und Verbraucherberatung,2.595
+Sachsen-Anhalt,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.181
+Sachsen-Anhalt,844,Lehrtätigk. außerschul.Bildungseinricht.,3.724
+Sachsen-Anhalt,912,Geisteswissenschaften,None
+Sachsen-Anhalt,913,Gesellschaftswissenschaften,3.507
+Sachsen-Anhalt,921,Werbung und Marketing,2.743
+Sachsen-Anhalt,924,Redaktion und Journalismus,4.263
+Sachsen-Anhalt,932,"Innenarchitektur, Raumausstattung",None
+Sachsen,121,Gartenbau,2.661
+Sachsen,221,"Kunststoff,Kautschukherstell.,verarbeit",2.704
+Sachsen,231,Papier- und Verpackungstechnik,2.992
+Sachsen,232,Technische Mediengestaltung,2.868
+Sachsen,261,Mechatronik und Automatisierungstechnik,3.643
+Sachsen,262,Energietechnik,3.471
+Sachsen,263,Elektrotechnik,3.719
+Sachsen,271,Technische Forschung und Entwicklung,5.256
+Sachsen,273,"Technische Produktionsplanung,-steuerung",4.317
+Sachsen,282,Textilverarbeitung,2.400
+Sachsen,292,Lebensmittel- u. Genussmittelherstellung,2.563
+Sachsen,311,"Bauplanung u. -überwachung, Architektur",4.779
+Sachsen,411,Mathematik und Statistik,None
+Sachsen,431,Informatik,4.727
+Sachsen,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.023
+Sachsen,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",4.769
+Sachsen,434,Softwareentwicklung und Programmierung,4.860
+Sachsen,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.709
+Sachsen,516,Kaufleute - Verkehr und Logistik,3.237
+Sachsen,521,Fahrzeugführung im Straßenverkehr,2.757
+Sachsen,525,Bau- und Transportgeräteführung,3.013
+Sachsen,541,Reinigung,2.434
+Sachsen,611,Einkauf und Vertrieb,4.363
+Sachsen,612,Handel,3.277
+Sachsen,621,Verkauf (ohne Produktspezialisierung),2.807
+Sachsen,623,Verkauf von Lebensmitteln,2.314
+Sachsen,632,Hotellerie,2.587
+Sachsen,633,Gastronomie,2.381
+Sachsen,634,"Veranstaltungsservice, -management",3.266
+Sachsen,711,Geschäftsführung und Vorstand,6.541
+Sachsen,713,Unternehmensorganisation und -strategie,4.735
+Sachsen,714,Büro und Sekretariat,3.380
+Sachsen,715,Personalwesen und -dienstleistung,4.395
+Sachsen,721,Versicherungs- u. Finanzdienstleistungen,5.120
+Sachsen,722,"Rechnungswesen, Controlling und Revision",3.978
+Sachsen,723,Steuerberatung,3.302
+Sachsen,732,Verwaltung,4.271
+Sachsen,733,Medien-Dokumentations-Informationsdienst,3.763
+Sachsen,811,Arzt- und Praxishilfe,2.632
+Sachsen,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",3.993
+Sachsen,817,Nicht ärztliche Therapie und Heilkunde,2.953
+Sachsen,821,Altenpflege,3.696
+Sachsen,822,"Ernährungs-,Gesundheitsberatung,Wellness",4.385
+Sachsen,825,"Medizin-, Orthopädie- und Rehatechnik",2.811
+Sachsen,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",3.958
+Sachsen,832,Hauswirtschaft und Verbraucherberatung,2.517
+Sachsen,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.686
+Sachsen,844,Lehrtätigk. außerschul.Bildungseinricht.,3.709
+Sachsen,912,Geisteswissenschaften,None
+Sachsen,913,Gesellschaftswissenschaften,3.539
+Sachsen,921,Werbung und Marketing,3.536
+Sachsen,924,Redaktion und Journalismus,4.137
+Sachsen,932,"Innenarchitektur, Raumausstattung",2.669
+Schleswig-Holstein,121,Gartenbau,3.053
+Schleswig-Holstein,221,"Kunststoff,Kautschukherstell.,verarbeit",3.008
+Schleswig-Holstein,231,Papier- und Verpackungstechnik,3.592
+Schleswig-Holstein,232,Technische Mediengestaltung,3.488
+Schleswig-Holstein,261,Mechatronik und Automatisierungstechnik,4.271
+Schleswig-Holstein,262,Energietechnik,4.121
+Schleswig-Holstein,263,Elektrotechnik,4.140
+Schleswig-Holstein,271,Technische Forschung und Entwicklung,6.558
+Schleswig-Holstein,273,"Technische Produktionsplanung,-steuerung",5.288
+Schleswig-Holstein,282,Textilverarbeitung,2.803
+Schleswig-Holstein,292,Lebensmittel- u. Genussmittelherstellung,3.071
+Schleswig-Holstein,311,"Bauplanung u. -überwachung, Architektur",5.308
+Schleswig-Holstein,411,Mathematik und Statistik,None
+Schleswig-Holstein,431,Informatik,4.824
+Schleswig-Holstein,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",5.412
+Schleswig-Holstein,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",5.401
+Schleswig-Holstein,434,Softwareentwicklung und Programmierung,5.518
+Schleswig-Holstein,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.947
+Schleswig-Holstein,516,Kaufleute - Verkehr und Logistik,3.926
+Schleswig-Holstein,521,Fahrzeugführung im Straßenverkehr,3.057
+Schleswig-Holstein,525,Bau- und Transportgeräteführung,3.598
+Schleswig-Holstein,541,Reinigung,2.507
+Schleswig-Holstein,611,Einkauf und Vertrieb,5.053
+Schleswig-Holstein,612,Handel,3.786
+Schleswig-Holstein,621,Verkauf (ohne Produktspezialisierung),2.972
+Schleswig-Holstein,623,Verkauf von Lebensmitteln,2.488
+Schleswig-Holstein,632,Hotellerie,2.758
+Schleswig-Holstein,633,Gastronomie,2.575
+Schleswig-Holstein,634,"Veranstaltungsservice, -management",None
+Schleswig-Holstein,711,Geschäftsführung und Vorstand,7.454
+Schleswig-Holstein,713,Unternehmensorganisation und -strategie,4.908
+Schleswig-Holstein,714,Büro und Sekretariat,3.531
+Schleswig-Holstein,715,Personalwesen und -dienstleistung,4.994
+Schleswig-Holstein,721,Versicherungs- u. Finanzdienstleistungen,5.359
+Schleswig-Holstein,722,"Rechnungswesen, Controlling und Revision",4.578
+Schleswig-Holstein,723,Steuerberatung,3.697
+Schleswig-Holstein,732,Verwaltung,4.412
+Schleswig-Holstein,733,Medien-Dokumentations-Informationsdienst,4.386
+Schleswig-Holstein,811,Arzt- und Praxishilfe,2.982
+Schleswig-Holstein,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.270
+Schleswig-Holstein,817,Nicht ärztliche Therapie und Heilkunde,3.375
+Schleswig-Holstein,821,Altenpflege,3.598
+Schleswig-Holstein,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Schleswig-Holstein,825,"Medizin-, Orthopädie- und Rehatechnik",3.266
+Schleswig-Holstein,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",4.068
+Schleswig-Holstein,832,Hauswirtschaft und Verbraucherberatung,2.699
+Schleswig-Holstein,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.778
+Schleswig-Holstein,844,Lehrtätigk. außerschul.Bildungseinricht.,4.563
+Schleswig-Holstein,912,Geisteswissenschaften,None
+Schleswig-Holstein,913,Gesellschaftswissenschaften,4.321
+Schleswig-Holstein,921,Werbung und Marketing,4.524
+Schleswig-Holstein,924,Redaktion und Journalismus,4.788
+Schleswig-Holstein,932,"Innenarchitektur, Raumausstattung",None
+Thüringen,121,Gartenbau,2.878
+Thüringen,221,"Kunststoff,Kautschukherstell.,verarbeit",2.786
+Thüringen,231,Papier- und Verpackungstechnik,3.136
+Thüringen,232,Technische Mediengestaltung,2.859
+Thüringen,261,Mechatronik und Automatisierungstechnik,3.633
+Thüringen,262,Energietechnik,3.474
+Thüringen,263,Elektrotechnik,3.306
+Thüringen,271,Technische Forschung und Entwicklung,5.338
+Thüringen,273,"Technische Produktionsplanung,-steuerung",4.242
+Thüringen,282,Textilverarbeitung,2.413
+Thüringen,292,Lebensmittel- u. Genussmittelherstellung,2.736
+Thüringen,311,"Bauplanung u. -überwachung, Architektur",4.781
+Thüringen,411,Mathematik und Statistik,None
+Thüringen,431,Informatik,4.243
+Thüringen,432,"IT-Systemanalyse,Anwenderber,IT-Vertrieb",4.331
+Thüringen,433,"IT-Netzwerkt.,-Koord.,-Administr.,-Orga.",4.979
+Thüringen,434,Softwareentwicklung und Programmierung,4.729
+Thüringen,513,"Lagerwirt.,Post,Zustellung,Güterumschlag",2.659
+Thüringen,516,Kaufleute - Verkehr und Logistik,3.263
+Thüringen,521,Fahrzeugführung im Straßenverkehr,2.866
+Thüringen,525,Bau- und Transportgeräteführung,3.184
+Thüringen,541,Reinigung,2.398
+Thüringen,611,Einkauf und Vertrieb,4.275
+Thüringen,612,Handel,3.350
+Thüringen,621,Verkauf (ohne Produktspezialisierung),2.681
+Thüringen,623,Verkauf von Lebensmitteln,2.293
+Thüringen,632,Hotellerie,2.293
+Thüringen,633,Gastronomie,2.407
+Thüringen,634,"Veranstaltungsservice, -management",None
+Thüringen,711,Geschäftsführung und Vorstand,6.716
+Thüringen,713,Unternehmensorganisation und -strategie,4.335
+Thüringen,714,Büro und Sekretariat,3.200
+Thüringen,715,Personalwesen und -dienstleistung,4.406
+Thüringen,721,Versicherungs- u. Finanzdienstleistungen,4.672
+Thüringen,722,"Rechnungswesen, Controlling und Revision",3.963
+Thüringen,723,Steuerberatung,3.131
+Thüringen,732,Verwaltung,4.184
+Thüringen,733,Medien-Dokumentations-Informationsdienst,3.762
+Thüringen,811,Arzt- und Praxishilfe,2.632
+Thüringen,813,"Gesundh.,Krankenpfl.,Rettungsd.Geburtsh.",4.056
+Thüringen,817,Nicht ärztliche Therapie und Heilkunde,2.949
+Thüringen,821,Altenpflege,3.789
+Thüringen,822,"Ernährungs-,Gesundheitsberatung,Wellness",None
+Thüringen,825,"Medizin-, Orthopädie- und Rehatechnik",2.940
+Thüringen,831,"Erziehung,Sozialarb.,Heilerziehungspfl.",3.953
+Thüringen,832,Hauswirtschaft und Verbraucherberatung,2.501
+Thüringen,842,"Lehrt.berufsb.Fächer,betr.Ausb.,Betr.päd",4.236
+Thüringen,844,Lehrtätigk. außerschul.Bildungseinricht.,3.823
+Thüringen,912,Geisteswissenschaften,None
+Thüringen,913,Gesellschaftswissenschaften,3.759
+Thüringen,921,Werbung und Marketing,3.508
+Thüringen,924,Redaktion und Journalismus,4.419
+Thüringen,932,"Innenarchitektur, Raumausstattung",None
